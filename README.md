@@ -48,6 +48,7 @@ I have a passion for AI-assisted development and helping developers become more 
 
 #### GitHub
 <p align="left">
+  <img src="assets/badges/github-copilot.png" alt="GitHub Copilot" height="100"/>
   <img src="assets/badges/github-foundations.png" alt="GitHub Foundations" height="100"/>
   <img src="assets/badges/github-delivery-migrations.png" alt="GitHub Migrations Delivery Credential" height="100"/>
   <img src="assets/badges/github-delivery-migrations-azdo.png" alt="AzureDevOps to GitHub Migrations Delivery Credential" height="100"/>
@@ -63,6 +64,7 @@ I have a passion for AI-assisted development and helping developers become more 
   <img src="assets/badges/ms-applied-skills-ai-assisted-development-github-copilot.png" alt="Microsoft Applied Skills: Accelerate AI-assisted development by using GitHub Copilot" height="100"/>
 </p>
 
+- **GitHub Copilot**
 - **GitHub Foundations**
 - GitHub Migrations Delivery Credential
 - AzureDevOps to GitHub Migrations Delivery Credential
@@ -117,4 +119,4 @@ Developed applications in complex environments for organizations in the financia
 
 ---
 
-*Profile last updated: April 2026*
+*Profile last updated: May 2026*
