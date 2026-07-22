@@ -55,6 +55,7 @@ I have a passion for AI-assisted development and helping developers become more 
   <img src="assets/badges/github-delivery-ghas.png" alt="GitHub Advanced Security Delivery Credential" height="100"/>
   <img src="assets/badges/github-delivery-copilot-core.png" alt="GitHub Copilot: Core Skills & Application Delivery Credential" height="100"/>
   <img src="assets/badges/github-delivery-copilot-scale-ai-enterprise.png" alt="GitHub Copilot: Scaling AI in the Enterprise Delivery Credential" height="100"/>
+  <img src="assets/badges/github-delivery-modernizing-enterprise-cicd-actions.png" alt="Modernizing Enterprise CI/CD with GitHub Actions Delivery Credential" height="100"/>
   <img src="assets/badges/github-sales-professional-fy26.png" alt="FY26 GitHub Sales Professional" height="100"/>
   <img src="assets/badges/github-sales-platform.png" alt="FY26 GitHub Platform Sales Badge" height="100"/>
   <img src="assets/badges/github-sales-ghas.png" alt="FY26 GitHub Advanced Security Sales Badge" height="100"/>
@@ -73,6 +74,7 @@ I have a passion for AI-assisted development and helping developers become more 
 - GitHub Advanced Security Delivery Credential
 - GitHub Copilot: Core Skills & Application Delivery Credential
 - GitHub Copilot: Scaling AI in the Enterprise Delivery Credential
+- Modernizing Enterprise CI/CD with GitHub Actions Delivery Credential
 - FY26 GitHub Sales Professional
 - FY26 GitHub Platform Sales Badge
 - FY26 GitHub Advanced Security Sales Badge
@@ -82,6 +84,13 @@ I have a passion for AI-assisted development and helping developers become more 
 - Microsoft Applied Skills: Automate Azure Load Testing by using GitHub Actions
 - Microsoft Applied Skills: Accelerate AI-assisted development by using GitHub Copilot
 - Microsoft Applied Skills: Resolve Github issues by using GitHub Copilot
+
+#### Anthropic
+<p align="left">
+  <img src="assets/badges/claude-certified-architect-foundations.png" alt="Claude Certified Architect - Foundations" height="100"/>
+</p>
+
+- **Claude Certified Architect - Foundations**
 
 ---
 
